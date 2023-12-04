@@ -7,6 +7,7 @@ A Flutter Responsive app designed from figma design.
 - 3 Templates
 - Demonstrates the design from the link below.
 - Responsive.
+- Change the Class At main.dart for different Pages.
 
 ## Thanking
 
